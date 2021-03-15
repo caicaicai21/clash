@@ -20,3 +20,5 @@ require (
 	golang.org/x/sys v0.0.0-20210309074719-68d13333faf2
 	gopkg.in/yaml.v2 v2.4.0
 )
+
+replace github.com/Dreamacro/go-shadowsocks2 v0.1.6 => github.com/caicaicai21/go-shadowsocks2 v0.1.6
